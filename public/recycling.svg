@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: unDraw.co, License: MIT -->
+<svg width="800px" height="600px" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+  <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+  <g id="SVGRepo_iconCarrier">
+    <rect width="800" height="600" fill="#e0f7fa"/>
+    <g>
+      <ellipse cx="400" cy="520" rx="300" ry="40" fill="#b2dfdb"/>
+      <g>
+        <rect x="350" y="300" width="100" height="150" rx="20" fill="#4caf50"/>
+        <rect x="370" y="320" width="60" height="110" rx="10" fill="#fff"/>
+        <path d="M400 340c0-11 16-11 16 0v30h14l-22 30-22-30h14v-30z" fill="#4caf50"/>
+      </g>
+      <circle cx="420" cy="420" r="12" fill="#ffd600"/>
+      <rect x="375" y="430" width="50" height="10" rx="5" fill="#bdbdbd"/>
+    </g>
+    <text x="400" y="580" text-anchor="middle" fill="#388e3c" font-size="32" font-family="Arial">Recycle!</text>
+  </g>
+</svg>
